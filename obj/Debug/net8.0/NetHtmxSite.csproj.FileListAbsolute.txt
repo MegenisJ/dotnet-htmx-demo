@@ -26,3 +26,4 @@ C:\Users\jameg\source\repos\NetHtmxSite\obj\Debug\net8.0\ref\NetHtmxSite.dll
 C:\Users\jameg\source\repos\NetHtmxSite\bin\Debug\net8.0\Scriban.dll
 C:\Users\jameg\source\repos\NetHtmxSite\obj\Debug\net8.0\NetHtmxSite.csproj.AssemblyReference.cache
 C:\Users\jameg\source\repos\NetHtmxSite\obj\Debug\net8.0\NetHtmxS.7C15BEBA.Up2Date
+C:\Users\jameg\source\repos\NetHtmxSite\obj\Debug\net8.0\NetHtmxSite.sourcelink.json
