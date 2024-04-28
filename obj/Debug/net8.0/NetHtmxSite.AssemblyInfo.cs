@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetHtmxSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+233fe6b052f4d77d4d125cd3e6244157a628637e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+652a6835071f1f4b203c832dcfe339b8cb434a3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetHtmxSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetHtmxSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

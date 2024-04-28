@@ -2,9 +2,10 @@ using Scriban;
 namespace NetHtmxSite.Templates;
 
 public static class IndexTemplate{
-    
-    public static string Render(string name){
-        return indexPage.Render(new {name = name});
+
+    public static string Render(HttpContext context){
+        context.Response.ContentType = "text/html";
+        return indexPage.Render(new {name = "World"});
     }
 
     private static Template indexPage = Template.Parse(
